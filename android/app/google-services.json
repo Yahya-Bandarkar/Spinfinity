@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "902932840571",
+    "project_id": "spin-5cfec",
+    "storage_bucket": "spin-5cfec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902932840571:android:0c7205e98764b94daae2de",
+        "android_client_info": {
+          "package_name": "com.example.spin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902932840571-4stjgh9c9ua4tlqlsdkj45ul44nr1sod.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spin",
+            "certificate_hash": "0449496cf17ba6492d55ae87b6b65cee577e2bca"
+          }
+        },
+        {
+          "client_id": "902932840571-tpccd8bikv4o3uen9g10m2m31vrgt3ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzO8SuhNlV_0F3HBolRmVdXhW5cRvLD3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902932840571-tpccd8bikv4o3uen9g10m2m31vrgt3ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
