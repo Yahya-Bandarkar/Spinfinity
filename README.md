@@ -1,17 +1,70 @@
-# spin
+# 🎯 Spinfinity
 
-A new Flutter project.
+> A modern gamified rewards platform built with Flutter, Firebase, Firestore, Google Sign-In, and AdMob.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+🎡 Interactive Spin Wheel
+🔐 Google Authentication
+☁️ Firebase & Firestore Integration
+💰 Reward & Points Tracking
+👤 User Profiles
+📢 AdMob Monetization
+⚡ Real-Time Data Synchronization
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* Flutter
+* Dart
+* Firebase Authentication
+* Cloud Firestore
+* Google Sign-In
+* Google AdMob
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Installation
+
+### Clone Repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/Spinfinity.git
+cd Spinfinity
+```
+
+### Install Dependencies
+
+```bash
+flutter pub get
+```
+
+### Configure Firebase
+
+1. Create a Firebase project.
+2. Add your Android application.
+3. Download `google-services.json`.
+4. Place it inside:
+
+```text
+android/app/google-services.json
+```
+
+### Run Application
+
+```bash
+flutter run
+```
+
+## 📌 Highlights
+
+* Cross-platform Flutter application
+* Cloud-backed user management
+* Real-time reward tracking
+* Gamification-driven engagement
+* AdMob monetization support
+
+## 👨‍💻 Author
+
+**Yahya Bandarkar**
+
+## 📄 License
+
+This project is licensed under the MIT License.
