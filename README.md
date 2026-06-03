@@ -60,6 +60,7 @@ flutter run
 * Real-time reward tracking
 * Gamification-driven engagement
 * AdMob monetization support
+* Responsive UI optimized for Android and iOS
 
 ## 👨‍💻 Author
 
