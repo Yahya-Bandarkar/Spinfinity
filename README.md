@@ -11,6 +11,7 @@
 👤 User Profiles
 📢 AdMob Monetization
 ⚡ Real-Time Data Synchronization
+🎁 Daily Rewards & Streak System
 
 ## 🛠️ Tech Stack
 
