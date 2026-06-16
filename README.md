@@ -21,6 +21,7 @@
 * Cloud Firestore
 * Google Sign-In
 * Google AdMob
+* Provider (State Management)
 
 ## 🚀 Installation
 
