@@ -12,7 +12,6 @@
 📢 AdMob Monetization
 ⚡ Real-Time Data Synchronization
 🎁 Daily Rewards & Streak System
-🏆 Leaderboards & Achievement Badges
 ## 🛠️ Tech Stack
 
 * Flutter
