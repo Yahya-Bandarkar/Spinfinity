@@ -10,7 +10,7 @@
 💰 Reward & Points Tracking
 👤 User Profiles
 📢 AdMob Monetization
-⚡ Real-Time Data Synchronization
+
 
 ## 🛠️ Tech Stack
 
