@@ -10,7 +10,7 @@
 💰 Reward & Points Tracking
 👤 User Profiles
 📢 AdMob Monetization
-🎁 Daily Login Rewards
+
 
 
 ## 🛠️ Tech Stack
