@@ -10,6 +10,7 @@
 💰 Reward & Points Tracking
 👤 User Profiles
 📢 AdMob Monetization
+🔔 Push Notifications 
 
 
 
