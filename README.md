@@ -11,7 +11,7 @@
 👤 User Profiles
 📢 AdMob Monetization
 🔔 Push Notifications 
-
+🎁 Daily Rewards
 
 
 ## 🛠️ Tech Stack
