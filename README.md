@@ -64,7 +64,7 @@ flutter run
 * Gamification-driven engagement
 * AdMob monetization support
 * Responsive UI optimized for Android and iOS
-* Daily Challenges & Achievement Badge
+* Daily Challenges & Achievement Badges
 
 ## 👨‍💻 Author
 
