@@ -12,7 +12,7 @@
 📢 AdMob Monetization
 🔔 Push Notifications 
 🎁 Daily Rewards
-🎯 Leaderboard & Rankings
+🎯 Leaderboard & Ranking
 
 
 ## 🛠️ Tech Stack
