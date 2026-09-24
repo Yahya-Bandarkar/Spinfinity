@@ -11,7 +11,7 @@
 👤 User Profiles
 📢 AdMob Monetization
 🔔 Push Notifications 
-🎁 Daily Reward
+🎁 Daily Rewards
 🎯 Leaderboard & Ranking
 
 
