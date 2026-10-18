@@ -13,6 +13,7 @@
 🔔 Push Notifications 
 🎁 Daily Rewards
 🎯 Leaderboard & Ranking
+🎰 Spin History & Rewards Log
 
 
 ## 🛠️ Tech Stack
